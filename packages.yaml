@@ -34,3 +34,5 @@ physical_server:
     - smartmontools
     - util-linux
     - gdisk
+virtualization:
+    - virt-top
